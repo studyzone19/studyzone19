@@ -16,8 +16,9 @@ I’m always exploring new technologies and keeping up with industry trends so I
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=studyzone19&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️  Quote
+ 𝐖𝐫𝐢𝐭𝐢𝐧𝐠 𝐜𝐨𝐝𝐞 𝐨𝐧 𝐩𝐚𝐩𝐞𝐫 𝐝𝐨𝐞𝐬 𝐧𝐨𝐭 𝐦𝐚𝐤𝐞 𝐲𝐨𝐮 𝐚 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫.
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=studyzone19&icon=0&color=0)](https://visitcount.itsvg.in)
