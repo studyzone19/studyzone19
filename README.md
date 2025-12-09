@@ -17,6 +17,7 @@
 
 ### ✍️ Quote
 🖥"Writing code on paper does not make us programmers.”
+<!-- <div style=" width: 100%; max-width: 420px; margin: 20px auto; padding: 22px; background: linear-gradient(135deg,#0ea5e9,#7c3aed); border-radius: 18px; color: #fff; font-family: 'Segoe UI', sans-serif; text-align: center; box-shadow: 0px 12px 35px rgba(0,0,0,0.35); transform: perspective(900px) rotateX(6deg) rotateY(-3deg); transition: 0.35s ease-in-out; "> <h2 style=" margin: 0; font-size: 20px; font-weight: bold; text-shadow: 2px 2px 6px rgba(0,0,0,0.6); "> 🖥 “Writing code on paper does not make us programmers.” </h2> </div> -->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=studyzone19&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
