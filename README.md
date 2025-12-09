@@ -1,9 +1,45 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<style>
+  .video-paper{
+    padding:0;
+    overflow:hidden;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background:#000;
+  }
+
+  .card-video{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+    display:block;
+    border-radius:8px;
+    transform: translateZ(90px) rotateY(-6deg) rotateX(6deg);
+    box-shadow: 0 18px 50px rgba(2,6,23,0.5);
+  }
+
+  @media (max-width:740px){
+    .card-video{
+      transform: translateZ(40px) rotateY(0deg) rotateX(0deg);
+    }
+  }
+</style>
 <div class="paper video-paper" id="paper" aria-hidden="false">
   <video class="card-video" playsinline autoplay muted loop preload="metadata" poster="">
     <source src="https://cdn.pixabay.com/video/2025/03/17/265432_large.mp4" type="video/mp4">
     Your browser does not support the video element.
   </video>
 </div>
+
+
+
+</body>
+</html>
+
 
 # 💫 About Me:
 <br>Hi, I’m Ram. I’m a Web Developer who loves building static, dynamic, and fully responsive websites. I work across both the front end and the back end, using HTML, CSS, JavaScript, React, Node.js, PHP, and other tools to turn ideas into smooth, functional web experiences.
