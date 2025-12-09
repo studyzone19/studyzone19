@@ -1,4 +1,10 @@
-<img src="https://camo.githubusercontent.com/287a317d950266105d4c0b02cf6d2389350b59c72b1956687388653ec7310c19/68747470733a2f2f772e77616c6c686176656e2e63632f66756c6c2f7a782f77616c6c686176656e2d7a786737676a2e6a7067" alt="">
+<div class="paper video-paper" id="paper" aria-hidden="false">
+  <video class="card-video" playsinline autoplay muted loop preload="metadata" poster="">
+    <source src="https://cdn.pixabay.com/video/2025/03/17/265432_large.mp4" type="video/mp4">
+    Your browser does not support the video element.
+  </video>
+</div>
+
 # 💫 About Me:
 <br>Hi, I’m Ram. I’m a Web Developer who loves building static, dynamic, and fully responsive websites. I work across both the front end and the back end, using HTML, CSS, JavaScript, React, Node.js, PHP, and other tools to turn ideas into smooth, functional web experiences.
 
