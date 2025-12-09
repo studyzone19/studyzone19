@@ -17,7 +17,7 @@ I’m always exploring new technologies and keeping up with industry trends so I
 ![](https://github-profile-trophy.vercel.app/?username=studyzone19&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️  Quote
- 𝐖𝐫𝐢𝐭𝐢𝐧𝐠 𝐜𝐨𝐝𝐞 𝐨𝐧 𝐩𝐚𝐩𝐞𝐫 𝐝𝐨𝐞𝐬 𝐧𝐨𝐭 𝐦𝐚𝐤𝐞 𝐲𝐨𝐮 𝐚 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫.
+file:///C:/Users/hp/Desktop/JAVASCRIPT/index.html
 
 
 
