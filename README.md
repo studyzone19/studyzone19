@@ -18,8 +18,10 @@ I’m always exploring new technologies and keeping up with industry trends so I
 ![](https://github-profile-trophy.vercel.app/?username=studyzone19&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️  Quote
-Writing code on paper does not make us  a programmer. 
-
+<h2 style="color: red; font-weight: bold; 
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
+  Writing code on paper does not make us a programmer.
+</h2>
 
 
 ---
