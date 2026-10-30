@@ -1,345 +1,281 @@
-::: {align="center"}
-`<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,30:172554,65:1D4ED8,100:06B6D4&text=RAM%20PRAJAPATI&fontSize=58&fontColor=FFFFFF&animation=fadeIn&stroke=38BDF8&strokeWidth=1&desc=FULL%20STACK%20MERN%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descSize=17&descAlignY=72" />`{=html}
+<div align="center">
 
-`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Hello%2C+I'm+Ram+Prajapati+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%9A%80;Building+Modern+and+Scalable+Web+Apps;Exploring+AI%2C+Machine+Learning+%26+Agentic+AI;Turning+Ideas+Into+Digital+Experiences" />`{=html}
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,30:172554,65:1D4ED8,100:06B6D4&text=RAM%20PRAJAPATI&fontSize=58&fontColor=FFFFFF&animation=fadeIn&stroke=38BDF8&strokeWidth=1&desc=FULL%20STACK%20MERN%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descSize=17&descAlignY=72"/>
 
-`<br/>`{=html}
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Hello%2C+I'm+Ram+Prajapati+%F0%9F%91%8B;MERN+Stack+Developer+%F0%9F%9A%80;Building+Modern+Web+Applications;Exploring+AI+%26+Machine+Learning;Turning+Ideas+Into+Digital+Experiences"/>
 
-`<a href="https://github.com/studyzone19">`{=html}`<img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" />`{=html}`</a>`{=html}
-`<a href="https://www.linkedin.com/in/ram-prajapati19/">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />`{=html}`</a>`{=html}
-`<a href="https://ram-ai-six.vercel.app/">`{=html}`<img src="https://img.shields.io/badge/Portfolio-Explore-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />`{=html}`</a>`{=html}
+<br/>
 
-`<img src="https://komarev.com/ghpvc/?username=studyzone19&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" />`{=html}
-:::
+<a href="https://github.com/studyzone19">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/ram-prajapati19/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://ram-ai-six.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Explore-6D28D9?style=for-the-badge&logo=vercel"/>
+</a>
 
-------------------------------------------------------------------------
+<img src="https://komarev.com/ghpvc/?username=studyzone19&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS"/>
 
-```{=html}
+</div>
+
+---
+
 <table>
-```
-```{=html}
 <tr>
-```
-```{=html}
-<td width="62%" valign="top">
-```
+<td width="60%" valign="top">
+
 ## 👋 Hi, I'm Ram Prajapati
 
-**MCA Student · MERN Stack Developer · AI/ML Enthusiast**
+**MCA Student | MERN Stack Developer | AI/ML Enthusiast**
 
-I enjoy building useful, responsive and scalable web applications. I
-work across frontend and backend development, and I am exploring how AI
-can make software more helpful.
+I am passionate about building modern, responsive and scalable web applications.
 
--   🎓 Pursuing MCA at Invertis University, Bareilly
--   ⚛️ Building interfaces with React.js
--   🛠️ Developing APIs with Node.js and Express.js
--   🍃 Working with MongoDB and SQL
--   🤖 Exploring AI, Machine Learning and Agentic AI
--   🎯 Open to frontend and MERN Stack opportunities
--   🏏 Cricket enthusiast
+- 🎓 MCA Student at Invertis University, Bareilly
+- ⚛️ React.js Frontend Development
+- 🚀 Node.js & Express.js Backend
+- 🍃 MongoDB & SQL Databases
+- 🤖 Exploring AI, ML & Agentic AI
+- 🎯 Open to Frontend / MERN Developer Opportunities
+- 🏏 Cricket Enthusiast
 
-**My approach:** Learn continuously, build with purpose, and improve
-with every project.
+**My Mission:** Build meaningful digital products through technology and innovation.
 
-```{=html}
 </td>
-```
-```{=html}
-<td width="38%" valign="top">
-```
-## ⚡ At a glance
 
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-stats.vercel.app/api?username=studyzone19&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" width="100%" />`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<a href="https://github.com/studyzone19?tab=repositories">`{=html}
-`<img src="https://img.shields.io/badge/Explore-My_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" />`{=html}
-`</a>`{=html}
-```{=html}
-</p>
-```
-```{=html}
+<td width="40%" valign="top">
+
+## ⚡ GitHub Overview
+
+<img src="https://github-readme-stats.vercel.app/api?username=studyzone19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" width="100%"/>
+
 </td>
-```
-```{=html}
 </tr>
-```
-```{=html}
 </table>
-```
 
-------------------------------------------------------------------------
+---
 
-## 🧰 Tech stack & tools
+## 🧰 TECH STACK & TOOLS
 
-```{=html}
 <table>
-```
-```{=html}
 <tr>
-```
-```{=html}
 <td align="center" width="50%">
-```
-### Frontend
 
-`<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite&theme=dark&perline=4" />`{=html}
+### 🎨 Frontend Development
 
-```{=html}
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite&theme=dark&perline=4"/>
+
 </td>
-```
-```{=html}
 <td align="center" width="50%">
-```
-### Backend & databases
 
-`<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark&perline=4" />`{=html}
+### ⚙️ Backend & Database
 
-```{=html}
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark&perline=4"/>
+
 </td>
-```
-```{=html}
 </tr>
-```
-```{=html}
+
 <tr>
-```
-```{=html}
 <td align="center">
-```
-### Programming languages
 
-`<img src="https://skillicons.dev/icons?i=python,java,cpp,cs&theme=dark&perline=4" />`{=html}
+### 💻 Programming Languages
 
-```{=html}
+<img src="https://skillicons.dev/icons?i=python,java,cpp,cs&theme=dark&perline=4"/>
+
 </td>
-```
-```{=html}
 <td align="center">
-```
-### Developer tools
 
-`<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,figma&theme=dark&perline=4" />`{=html}
+### 🔧 Tools & Platforms
 
-```{=html}
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,figma&theme=dark&perline=4"/>
+
 </td>
-```
-```{=html}
 </tr>
-```
-```{=html}
 </table>
-```
 
-------------------------------------------------------------------------
+---
 
-## 🚀 Featured projects
+## 🚀 FEATURED PROJECTS
 
-```{=html}
 <table>
-```
-```{=html}
 <tr>
-```
-```{=html}
 <td width="50%" valign="top">
-```
-### 🌐 NetScope IPv6 Auditor
 
-`<img src="https://img.shields.io/badge/NETWORK%20AUDITING-2563EB?style=flat-square" />`{=html}
+<h3 align="center">🌐 NetScope IPv6 Auditor</h3>
 
-A web-based IPv6 readiness auditor that checks website connectivity and
-dependent resources.
+<p align="center">
+<img src="https://img.shields.io/badge/NETWORK-AUDITING-2563EB?style=for-the-badge"/>
+</p>
 
--   IPv6 reachability checks
--   Website dependency analysis
--   Network failure-stage visibility
--   Analytics dashboard
+IPv6 Website and Dependency Readiness Auditor.
 
-**Stack:** React · Node.js · Express · MongoDB · Playwright
+- IPv6 reachability testing
+- Website dependency analysis
+- Network failure detection
+- Interactive analytics dashboard
 
-[`<img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />`{=html}](https://netscope-ipv6-auditor-tknz.vercel.app/)
-[`<img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" />`{=html}](https://github.com/studyzone19/netscope-ipv6-auditor)
+**Tech:** React, Node.js, Express, MongoDB, Playwright
 
-```{=html}
+<p align="center">
+<a href="https://netscope-ipv6-auditor-tknz.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-2563EB?style=for-the-badge&logo=vercel"/>
+</a>
+<a href="https://github.com/studyzone19/netscope-ipv6-auditor">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
 </td>
-```
-```{=html}
+
 <td width="50%" valign="top">
-```
-### 🌍 LANDGUARD AI
 
-`<img src="https://img.shields.io/badge/AI%20%26%20EARLY%20WARNING-7C3AED?style=flat-square" />`{=html}
+<h3 align="center">🌍 LANDGUARD AI</h3>
 
-An AI-based early warning and landslide risk monitoring concept for the
-North Eastern Region.
+<p align="center">
+<img src="https://img.shields.io/badge/ARTIFICIAL-INTELLIGENCE-7C3AED?style=for-the-badge"/>
+</p>
 
--   Landslide risk prediction
--   Environmental data analysis
--   Risk monitoring dashboard
--   Early warning alerts
+AI-Based Early Warning and Landslide Risk Monitoring System.
 
-**Stack:** React · Node.js · Python · Machine Learning · MongoDB
+- Landslide risk prediction
+- Environmental monitoring
+- Risk analysis dashboard
+- Early warning notifications
 
-[`<img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" />`{=html}](https://github.com/studyzone19/bhu-drishti)
+**Tech:** React, Node.js, Python, ML, MongoDB
 
-```{=html}
+<p align="center">
+<a href="https://github.com/studyzone19/bhu-drishti">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
 </td>
-```
-```{=html}
 </tr>
-```
-```{=html}
+
 <tr>
-```
-```{=html}
 <td width="50%" valign="top">
-```
-### 🤖 AI Smart Assistant
 
-`<img src="https://img.shields.io/badge/AI%20APPLICATION-0891B2?style=flat-square" />`{=html}
+<h3 align="center">🤖 AI Smart Assistant</h3>
 
-An AI-powered conversational application with a modern chat experience.
+<p align="center">
+<img src="https://img.shields.io/badge/AI-APPLICATION-0891B2?style=for-the-badge"/>
+</p>
 
--   Interactive chat interface
--   Backend API integration
--   Responsive frontend
--   AI-powered assistance
+AI-powered conversational assistant with a modern chat interface.
 
-**Stack:** React · Node.js · Express · MongoDB
+- Interactive AI chatbot
+- Backend API integration
+- Responsive chat interface
+- Intelligent assistance
 
-[`<img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" />`{=html}](https://github.com/studyzone19/Ai-Smart-Assistant)
+**Tech:** React, Node.js, Express, MongoDB
 
-```{=html}
+<p align="center">
+<a href="https://github.com/studyzone19/Ai-Smart-Assistant">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
 </td>
-```
-```{=html}
+
 <td width="50%" valign="top">
-```
-### ✨ More projects & experiments
 
-I also work on frontend interfaces, JavaScript applications, data
-analytics and practical development experiments.
+<h3 align="center">✨ More Projects</h3>
 
-Explore my repositories to see more:
+I continuously work on new development projects and experiments.
 
-[`<img src="https://img.shields.io/badge/View_All_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" />`{=html}](https://github.com/studyzone19?tab=repositories)
+- Modern React Applications
+- JavaScript Projects
+- Data Analytics
+- AI-powered Applications
 
-```{=html}
+<p align="center">
+<a href="https://github.com/studyzone19?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-2563EB?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
 </td>
-```
-```{=html}
 </tr>
-```
-```{=html}
 </table>
-```
 
-------------------------------------------------------------------------
+---
 
-## 📊 GitHub dashboard
+## 📊 GITHUB ANALYTICS
 
-::: {align="center"}
-`<a href="https://github.com/studyzone19">`{=html}
-`<img height="175" src="https://github-readme-stats.vercel.app/api?username=studyzone19&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" />`{=html}
-`</a>`{=html} `<a href="https://github.com/studyzone19">`{=html}
-`<img height="175" src="https://streak-stats.demolab.com?user=studyzone19&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />`{=html}
-`</a>`{=html}
+<div align="center">
 
-`<br/>`{=html}
+<a href="https://github.com/studyzone19">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=studyzone19&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8"/>
+</a>
 
-`<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=studyzone19&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />`{=html}
-:::
+<a href="https://github.com/studyzone19">
+<img width="49%" src="https://streak-stats.demolab.com?user=studyzone19&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8"/>
+</a>
 
-------------------------------------------------------------------------
+<br/>
 
-## 📈 Contribution activity
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=studyzone19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8"/>
 
-::: {align="center"}
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=studyzone19&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true" width="100%" />`{=html}
-:::
+</div>
 
-------------------------------------------------------------------------
+---
 
-## 🐍 Contribution snake
+## 📈 CONTRIBUTION ACTIVITY
 
-::: {align="center"}
-`<img src="https://raw.githubusercontent.com/studyzone19/studyzone19/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />`{=html}
-:::
+<div align="center">
 
-> **Setup note:** The snake image needs a GitHub Actions workflow in
-> `.github/workflows/`. It will appear after the workflow runs
-> successfully. The README alone does not generate it.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=studyzone19&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
-------------------------------------------------------------------------
+</div>
 
-## 🎯 What I'm focusing on
+---
 
-```{=html}
+## 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/studyzone19/studyzone19/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## 🎯 CURRENT FOCUS
+
 <table>
-```
-```{=html}
 <tr>
-```
-```{=html}
-<td align="center">
-```
-⚛️`<br/>`{=html}`<b>`{=html}MERN
-Stack`</b>`{=html}`<br/>`{=html}Full-stack applications
-```{=html}
-</td>
-```
-```{=html}
-<td align="center">
-```
-🧩`<br/>`{=html}`<b>`{=html}DSA`</b>`{=html}`<br/>`{=html}Problem
-solving
-```{=html}
-</td>
-```
-```{=html}
-<td align="center">
-```
-🤖`<br/>`{=html}`<b>`{=html}AI /
-ML`</b>`{=html}`<br/>`{=html}Intelligent applications
-```{=html}
-</td>
-```
-```{=html}
-<td align="center">
-```
-🏗️`<br/>`{=html}`<b>`{=html}System
-Design`</b>`{=html}`<br/>`{=html}Scalable architecture
-```{=html}
-</td>
-```
-```{=html}
+<td align="center">⚛️<br/><b>MERN Stack</b><br/>Full Stack Development</td>
+<td align="center">🧠<br/><b>DSA</b><br/>Problem Solving</td>
+<td align="center">🤖<br/><b>AI / ML</b><br/>Intelligent Applications</td>
+<td align="center">🏗️<br/><b>System Design</b><br/>Scalable Architecture</td>
 </tr>
-```
-```{=html}
 </table>
-```
 
-------------------------------------------------------------------------
+---
 
-## 🤝 Find me around the web
+## 🤝 CONNECT WITH ME
 
-::: {align="center"}
-`<a href="https://github.com/studyzone19">`{=html}`<img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github" />`{=html}`</a>`{=html}
-`<a href="https://www.linkedin.com/in/ram-prajapati19/">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" />`{=html}`</a>`{=html}
-`<a href="https://ram-ai-six.vercel.app/">`{=html}`<img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-6D28D9?style=for-the-badge&logo=vercel" />`{=html}`</a>`{=html}
+<div align="center">
 
-`<br/>`{=html}`<br/>`{=html}
+<a href="https://github.com/studyzone19">
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github"/>
+</a>
 
-### 💙 Code. Learn. Build. Repeat.
+<a href="https://www.linkedin.com/in/ram-prajapati19/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:1D4ED8,100:0891B2&height=130&section=footer" />`{=html}
-:::
+<a href="https://ram-ai-six.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-6D28D9?style=for-the-badge&logo=vercel"/>
+</a>
+
+<br/><br/>
+
+### 💙 CODE • LEARN • BUILD • REPEAT
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:1D4ED8,100:0891B2&height=130&section=footer"/>
+
+</div>
