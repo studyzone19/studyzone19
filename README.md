@@ -57,7 +57,7 @@ MCA Student | AI Enthusiast
 <br/>
 <a href="https://www.linkedin.com/in/ram-prajapati19/">LinkedIn</a>
 <br/>
-<a href="https://ram-ai-six.vercel.app/">Portfolio</a>
+<a href="https://ram-profile.vercel.app/">Portfolio</a>
 </p>
 
 ### 💡 Highlights
