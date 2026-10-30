@@ -1,28 +1,182 @@
-# 💫 About Me:
-​𝙷𝚒, 𝙸’𝚖 𝚁𝚊𝚖. 𝙸’𝚖 𝚊 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚑𝚘 𝚕𝚘𝚟𝚎𝚜 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚜𝚝𝚊𝚝𝚒𝚌, 𝚍𝚢𝚗𝚊𝚖𝚒𝚌, 𝚊𝚗𝚍 𝚏𝚞𝚕𝚕𝚢 𝚛𝚎𝚜𝚙𝚘𝚗𝚜𝚒𝚟𝚎 𝚠𝚎𝚋𝚜𝚒𝚝𝚎𝚜. 𝙸 𝚠𝚘𝚛𝚔 𝚊𝚌𝚛𝚘𝚜𝚜 𝚋𝚘𝚝𝚑 𝚝𝚑𝚎 𝚏𝚛𝚘𝚗𝚝 𝚎𝚗𝚍 𝚊𝚗𝚍 𝚝𝚑𝚎 𝚋𝚊𝚌𝚔 𝚎𝚗𝚍, 𝚞𝚜𝚒𝚗𝚐 𝙷𝚃𝙼𝙻, 𝙲𝚂𝚂, 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝, 𝚁𝚎𝚊𝚌𝚝, 𝙽𝚘𝚍𝚎.𝚓𝚜, 𝙿𝙷𝙿, 𝚊𝚗𝚍 𝚘𝚝𝚑𝚎𝚛 𝚝𝚘𝚘𝚕𝚜 𝚝𝚘 𝚝𝚞𝚛𝚗 𝚒𝚍𝚎𝚊𝚜 𝚒𝚗𝚝𝚘 𝚜𝚖𝚘𝚘𝚝𝚑, 𝚏𝚞𝚗𝚌𝚝𝚒𝚘𝚗𝚊𝚕 𝚠𝚎𝚋 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜.<br>𝙸 𝚏𝚘𝚌𝚞𝚜 𝚘𝚗 𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚍𝚎𝚜𝚒𝚐𝚗𝚜 𝚝𝚑𝚊𝚝 𝚏𝚎𝚎𝚕 𝚗𝚊𝚝𝚞𝚛𝚊𝚕 𝚝𝚘 𝚞𝚜𝚎𝚛𝚜 𝚊𝚗𝚍 𝚠𝚘𝚛𝚔 𝚠𝚎𝚕𝚕 𝚘𝚗 𝚊𝚗𝚢 𝚍𝚎𝚟𝚒𝚌𝚎. 𝙲𝚕𝚎𝚊𝚗 𝚌𝚘𝚍𝚎, 𝚌𝚕𝚎𝚊𝚛 𝚜𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎, 𝚊𝚗𝚍 𝚞𝚜𝚊𝚋𝚒𝚕𝚒𝚝𝚢 𝚐𝚞𝚒𝚍𝚎 𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐 𝙸 𝚋𝚞𝚒𝚕𝚍. 𝚆𝚑𝚎𝚝𝚑𝚎𝚛 𝚒𝚝’𝚜 𝚌𝚛𝚊𝚏𝚝𝚒𝚗𝚐 𝚒𝚗𝚝𝚎𝚛𝚊𝚌𝚝𝚒𝚟𝚎 𝚒𝚗𝚝𝚎𝚛𝚏𝚊𝚌𝚎𝚜, 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚒𝚗𝚐 𝚜𝚝𝚊𝚋𝚕𝚎 𝚋𝚊𝚌𝚔-𝚎𝚗𝚍 𝚜𝚢𝚜𝚝𝚎𝚖𝚜, 𝚘𝚛 𝚒𝚖𝚙𝚛𝚘𝚟𝚒𝚗𝚐 𝚙𝚎𝚛𝚏𝚘𝚛𝚖𝚊𝚗𝚌𝚎, 𝙸 𝚎𝚗𝚓𝚘𝚢 𝚜𝚘𝚕𝚟𝚒𝚗𝚐 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜 𝚊𝚗𝚍 𝚖𝚊𝚔𝚒𝚗𝚐 𝚙𝚛𝚘𝚍𝚞𝚌𝚝𝚜 𝚋𝚎𝚝𝚝𝚎𝚛.<br><br>𝙸’𝚖 𝚊𝚕𝚠𝚊𝚢𝚜 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚗𝚎𝚠 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚊𝚗𝚍 𝚔𝚎𝚎𝚙𝚒𝚗𝚐 𝚞𝚙 𝚠𝚒𝚝𝚑 𝚒𝚗𝚍𝚞𝚜𝚝𝚛𝚢 𝚝𝚛𝚎𝚗𝚍𝚜 𝚜𝚘 𝙸 𝚌𝚊𝚗 𝚌𝚘𝚗𝚝𝚒𝚗𝚞𝚎 𝚐𝚛𝚘𝚠𝚒𝚗𝚐 𝚊𝚗𝚍 𝚍𝚎𝚕𝚒𝚟𝚎𝚛 𝚜𝚝𝚛𝚘𝚗𝚐𝚎𝚛, 𝚖𝚘𝚛𝚎 𝚜𝚌𝚊𝚕𝚊𝚋𝚕𝚎 𝚜𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜.
+ <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1D4ED8,100:06B6D4&height=220&section=header&text=RAM%20PRAJAPATI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20MERN%20DEVELOPER&descAlignY=60&descSize=19" width="100%"/>
 
-## 🌐 Socials:
+# 👋 Hey, I'm Ram Prajapati
 
+### 🚀 MERN Stack Developer | Full Stack Web Developer | AI Enthusiast
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=studyzone19&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=studyzone19&theme=solarized-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=studyzone19&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;React.js+%7C+Node.js+%7C+Express.js;MongoDB+%7C+JavaScript+%7C+REST+APIs;Exploring+AI%2FML+%26+Agentic+AI;Turning+Ideas+Into+Reality+Through+Code" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=studyzone19&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p>
+<a href="https://github.com/studyzone19">
+<img src="https://img.shields.io/badge/GitHub-studyzone19-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/ram-prajapati19/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://ram-ai-six.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel"/>
+</a>
+</p>
 
-### ✍️ Quote
-🖥"Writing code on paper does not make us programmers.”
-<!-- <div style=" width: 100%; max-width: 420px; margin: 20px auto; padding: 22px; background: linear-gradient(135deg,#0ea5e9,#7c3aed); border-radius: 18px; color: #fff; font-family: 'Segoe UI', sans-serif; text-align: center; box-shadow: 0px 12px 35px rgba(0,0,0,0.35); transform: perspective(900px) rotateX(6deg) rotateY(-3deg); transition: 0.35s ease-in-out; "> <h2 style=" margin: 0; font-size: 20px; font-weight: bold; text-shadow: 2px 2px 6px rgba(0,0,0,0.6); "> 🖥 “Writing code on paper does not make us programmers.” </h2> </div> -->
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=studyzone19&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=studyzone19&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm Ram Prajapati, an MCA student and passionate Full Stack Developer who enjoys building modern, responsive and user-friendly web applications.
+
+- 🎓 Pursuing MCA at Invertis University, Bareilly.
+- 💻 Specializing in MERN Stack Development.
+- ⚛️ Working with React.js and modern frontend technologies.
+- 🌐 Building backend applications using Node.js and Express.js.
+- 🍃 Working with MongoDB and REST APIs.
+- 🤖 Exploring AI, Machine Learning and Agentic AI.
+- 🚀 Interested in solving real-world problems through technology.
+- 🎯 Currently looking for Frontend / MERN Stack Developer opportunities.
+
+**My Goal:** To become a skilled Full Stack Developer and build impactful technology products.
+
+---
+
+## 🛠️ Tech Stack & Technologies
+
+### 💻 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,python,java,cpp,cs" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,figma" />
+</p>
+
+### 🤖 AI & Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,opencv,tensorflow" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 01. NetScope IPv6 Auditor
+
+A web-based IPv6 readiness auditing platform that analyzes website connectivity and external dependencies.
+
+**Key Features**
+- IPv6 reachability testing.
+- Website dependency analysis.
+- Network failure detection.
+- Interactive analytics dashboard.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Playwright.
+
+🔗 [Live Demo](https://netscope-ipv6-auditor-tknz.vercel.app/) | [GitHub Repository](https://github.com/studyzone19/netscope-ipv6-auditor)
+
+### 02. LANDGUARD AI
+
+AI-Based Early Warning and Landslide Risk Monitoring System for the North Eastern Region.
+
+**Key Features**
+- AI-based landslide risk prediction.
+- Weather and environmental monitoring.
+- Risk analysis dashboard.
+- Early warning and alert system.
+
+**Tech Stack:** React.js, Node.js, Python, Machine Learning, MongoDB.
+
+🔗 [GitHub Repository](https://github.com/studyzone19/bhu-drishti-ai)
+
+### 03. AI Smart Assistant
+
+An AI-powered conversational assistant with a modern chat interface.
+
+**Key Features**
+- Interactive AI chatbot.
+- Responsive chat interface.
+- Backend API integration.
+- AI-powered assistance.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB.
+
+🔗 [GitHub Repository](https://github.com/studyzone19/Ai-Smart-Assistant)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=studyzone19&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=studyzone19&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=studyzone19&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=studyzone19&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Building advanced MERN Stack applications.
+- Improving Data Structures and Algorithms.
+- Learning System Design fundamentals.
+- Exploring Generative AI and Agentic AI.
+- Developing real-world full-stack projects.
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/studyzone19">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ram-prajapati19/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://ram-ai-six.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### 💡 Code • Create • Innovate • Repeat
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:020617&height=120&section=footer" width="100%"/>
+
+</div>
