@@ -19,8 +19,8 @@ Building modern, responsive and user-friendly web experiences.
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=700&color=06B6D4&center=true&vCenter=true&width=420&lines=MERN+Stack+Developer;Frontend+Developer;AI+%26+ML+Enthusiast;Building+Real+World+Projects" />
 
 </td>
-<td width="25%" align="center">
-<img src="./ram-avatar.png" width="180" alt="Ram cartoon avatar"/>
+<!-- <td width="25%" align="center"> -->
+<!-- <img src="./ram-avatar.png" width="180" alt="Ram cartoon avatar"/> -->
 </td>
 </tr>
 </table>
