@@ -13,7 +13,7 @@ src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:020617,
 <a href="https://www.linkedin.com/in/ram-prajapati19/">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="https://ram-ai-six.vercel.app/">
+<a href="https://ram-profile.vercel.app/">
 <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-7C3AED?style=for-the-badge&logo=vercel"/>
 </a>
 
