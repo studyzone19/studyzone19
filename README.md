@@ -6,7 +6,7 @@
 <table>
 <tr>
 <td width="25%" align="center">
-<img src="./ram-photo.png" width="190" alt="Ram Prajapati"/>
+<img src="https://ram-profile.vercel.app/profile-transparent.png" width="190" alt="Ram Prajapati"/>
 </td>
 <td width="50%" align="center">
 
