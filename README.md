@@ -335,7 +335,7 @@ An AI-powered platform designed to monitor landslide risk using environmental da
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=ramnath-prajapati&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF&icon_color=00FF88"
+src="https://github-readme-stats.vercel.app/api?username=studyzone19 &show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF&icon_color=00FF88"
 height="180"
 />
 
@@ -351,7 +351,7 @@ height="180"
 <div align="center">
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=ramnath-prajapati&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=FFFFFF&dates=777777"
+src="https://github-readme-streak-stats.herokuapp.com/?user=studyzone19 &hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=FFFFFF&dates=777777"
 width="70%"
 />
 
@@ -364,7 +364,7 @@ width="70%"
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=ramnath-prajapati&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area=true&hide_border=true&custom_title=RAM%20PRAJAPATI%20%7C%20DEVELOPER%20ACTIVITY"
+src="https://github-readme-activity-graph.vercel.app/graph?username=studyzone19 &bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area=true&hide_border=true&custom_title=RAM%20PRAJAPATI%20%7C%20DEVELOPER%20ACTIVITY"
 width="100%"
 />
 
@@ -648,11 +648,7 @@ If you're interested in **MERN, AI, Open Source, Hackathons or building products
 <br/><br/>
 
 ```text
-> CODE
-> BUILD
-> LEARN
-> IMPROVE
-> REPEAT_
+> CODE  - > BUILD   - > LEARN  -  > IMPROVE   - > REPEAT_
 ```
 
 <br/>
