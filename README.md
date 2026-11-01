@@ -359,18 +359,17 @@ width="70%"
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=studyzone19 &bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area=true&hide_border=true&custom_title=RAM%20PRAJAPATI%20%7C%20DEVELOPER%20ACTIVITY"
-width="100%"
-/>
-
-</div>
-
 ---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=studyzone19&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="Contribution Graph"
+  />
+</p> 
 
 # 🧠 Currently Learning
 
