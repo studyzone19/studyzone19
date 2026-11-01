@@ -36,27 +36,6 @@
 
 ---
 
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                  C:\Users\ram> whoami                       ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   > MERN Stack Developer                                    ║
-║   > Full Stack Web Developer                                ║
-║   > AI / ML Explorer                                        ║
-║   > Agentic AI Learner                                      ║
-║   > Problem Solver                                          ║
-║   > Hackathon Builder                                       ║
-║                                                              ║
-║   STATUS : ONLINE                                           ║
-║   MODE   : BUILD                                            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
 
 ---
 
@@ -100,7 +79,7 @@ const ram = {
 
 <td width="40%" align="center">
 
-<img src="./assets/profile.jpg" width="220" alt="Ram Prajapati"/>
+<img src="https://ram-profile.vercel.app/profile-transparent.png" width="220" alt="Ram Prajapati"/>
 
 <br/><br/>
 
@@ -217,7 +196,6 @@ Exploring practical AI products using:
 ```text
 Python
 AI APIs
-LLMs
 Chatbots
 AI Agents
 Automation
@@ -435,8 +413,6 @@ System Design
 Cyber Security
 ███████████░░░░░░░░░
 
-Cloud / DevOps
-██████████░░░░░░░░░░
 ```
 
 </td>
@@ -555,8 +531,7 @@ NumPy
 Pandas
 Machine Learning
 AI APIs
-LLMs
-AI Agents
+AI Agents (Learning)
 ```
 
 </td>
@@ -614,14 +589,14 @@ alt="GitHub Contribution Snake"
 [✓] Build production-ready MERN applications
 [✓] Build AI-powered applications
 [✓] Participate in hackathons
-[ ] Master Advanced React
-[ ] Master Node.js & Backend Architecture
-[ ] Learn System Design
-[ ] Build AI Agents
-[ ] Explore Agentic AI
-[ ] Contribute to Open Source
-[ ] Improve Cyber Security Skills
-[ ] Build scalable real-world products
+[✓] Master Advanced React
+[✓] Master Node.js & Backend Architecture
+[ ] Learn System Design  [{ Learning  }]
+[ ] Build AI Agents       
+[ ] Explore Agentic AI    [{ Learning  }]
+[✓] Contribute to Open Source
+[ ] Improve Cyber Security Skills  [{ Learning  }]
+[✓] Build scalable real-world products
 ```
 
 ---
