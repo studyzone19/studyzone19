@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="./assets/hacker-banner.png" width="100%" alt="Ram Prajapati Developer Banner"/>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGErMlu3Ofi-w/profile-displaybackgroundimage-shrink_350_1400/B56aEzwIYbHkAU-/0/1791869617975?e=1795046400&v=beta&t=GMxj3v7NAr-4Z0H--h2RSA1_fRDTdG7vYIjRO7LfZWE" width="100%" alt="MERN STACK Developer "/>
 
 <br/><br/>
 
