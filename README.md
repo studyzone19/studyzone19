@@ -35,9 +35,7 @@
 
 ## 👨‍💻 About Me
 
-## 👨‍💻 About Me
-
-<img align="right" width="380"
+<img align="right" width="400"
 src="./MERN%20Stack%20AR_VR%20Developer%20Poster.png"
 alt="MERN Stack & AR/VR Developer"/>
 
