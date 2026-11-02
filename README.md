@@ -122,10 +122,10 @@ MCA student and developer focused on building scalable web applications and expl
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-### 🎮 AR / VR & Game Development
+### 🎮 AR / VR 
 
 <p>
-<!-- <img src="https://skillicons.dev/icons?i=unity,cs"/> -->
+<img src="https://skillicons.dev/icons?i=cs"/>
 <img src="https://img.shields.io/badge/AR%2FVR-Exploring-7C3AED?style=for-the-badge"/>
 </p>
 
