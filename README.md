@@ -301,8 +301,8 @@ I'm always interested in connecting with developers, learning new technologies, 
 </a>
 
 <br/>
-# ⚡ Developer Philosophy
 
+## ⚡ Developer Philosophy
 <div align="center">
 
 ```text
