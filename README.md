@@ -8,8 +8,8 @@
 
 <br/>
 
-<!-- <img src="https://media.licdn.com/dms/image/v2/D5616AQGErMlu3Ofi-w/profile-displaybackgroundimage-shrink_350_1400/B56aEzwIYbHkAU-/0/1791869617975?e=1795046400&v=beta&t=GMxj3v7NAr-4Z0H--h2RSA1_.fRDTdG7vYIjRO7LfZWE" width="100%" alt="MERN STACK Developer "/> -->
-<img src ="C:\Users\hp\Desktop\MERN Stack AR_VR Developer Poster (1).png"/>
+ <img src="https://media.licdn.com/dms/image/v2/D5616AQGErMlu3Ofi-w/profile-displaybackgroundimage-shrink_350_1400/B56aEzwIYbHkAU-/0/1791869617975?e=1795046400&v=beta&t=GMxj3v7NAr-4Z0H--h2RSA1_.fRDTdG7vYIjRO7LfZWE" width="100%" alt="MERN STACK Developer "/> 
+
 
 <br/><br/>
 
