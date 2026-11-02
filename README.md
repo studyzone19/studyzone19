@@ -234,24 +234,6 @@ An AI assistant concept designed to provide an interactive conversational experi
 | Cybersecurity | Linux & Network Security |
 | System Design | Scalable Application Architecture |
 
----
-
-## 🎯 My Learning Roadmap
-
-- [x] Learn HTML, CSS and JavaScript
-- [x] Start React.js Development
-- [x] Learn Node.js and Express.js
-- [x] Work with MongoDB and REST APIs
-- [x] Build Full Stack Projects
-- [ ] Master Advanced MERN Stack
-- [ ] Improve DSA and Problem Solving
-- [ ] Build Advanced AI/ML Projects
-- [ ] Explore Unity 3D and AR/VR
-- [ ] Learn Advanced Cybersecurity
-- [ ] Contribute to Open Source Projects
-- [ ] Secure a Full Stack Developer Internship
-
----
 
 ## 📊 GitHub Statistics
 
@@ -318,7 +300,21 @@ I'm always interested in connecting with developers, learning new technologies, 
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/>
+# ⚡ Developer Philosophy
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────────────────┐
+│                                                 │
+│       THINK  →  BUILD  →  TEST  →  SHIP       │
+│                                                 │
+│       LEARN   →  IMPROVE  →  REPEAT            │
+│                                                 │
+└─────────────────────────────────────────────────┘
+```
+<br/>
 
 **💼 Open to Full Stack Developer Internships & Collaboration Opportunities**
 
