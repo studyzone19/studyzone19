@@ -37,19 +37,16 @@
 
 <img align="right" width="310" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-Hello World! I'm **Ram Prajapati ** 👋
+Hello! I'm **Ram Prajapati** 👋
 
-I'm an MCA student and passionate developer who loves building modern web applications, exploring Artificial Intelligence and solving real-world problems through technology.
+An MCA student and passionate software developer focused on building scalable web applications and exploring intelligent technologies.
 
-- 🎓 Pursuing MCA at **Invertis University, Bareilly**
-- 💻 Focused on **MERN Stack Development**
-- ⚛️ Building responsive applications using React.js
-- 🛠️ Developing backend systems using Node.js and Express.js
-- 🤖 Exploring AI, Machine Learning and Python
-- 🌐 Interested in Cybersecurity and Network Technologies
-- 🎮 Exploring AR/VR Development and Unity 3D
-- 🚀 Building innovative projects and participating in hackathons
-- 📚 Continuously learning new technologies
+- 🎓 MCA @ **Invertis University, Bareilly**
+- 💻 **MERN Stack & Full Stack Development**
+- 🤖 **AI/ML & Agentic AI Enthusiast**
+- 🔐 Exploring **Cybersecurity & Network Technologies**
+- 🎮 Exploring **AR/VR & Unity 3D**
+- 🚀 Building innovative solutions through code and continuous learning.
 
 <br clear="right"/>
 
