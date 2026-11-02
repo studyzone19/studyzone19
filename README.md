@@ -201,7 +201,7 @@ A smart timetable management platform designed to automate college scheduling.
 
 ---
 
-### 🤖 5. NexaGPT
+### 🤖 5. AI Assistant Chatgpt
 
 **AI-Powered Personal Assistant**
 
