@@ -1,656 +1,328 @@
+
+<!-- =============== ANIMATED HEADER =============== -->
+
 <div align="center">
 
-# ⚡ RAM PRAJAPATI
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,40:581C87,100:2563EB&height=250&section=header&text=RAMNATH%20PRAJAPATI&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=MERN%20STACK%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST%20%7C%20AR%2FVR%20EXPLORER&descSize=15&descAlignY=60"/>
 
-### `MERN STACK DEVELOPER • AI ENTHUSIAST • FULL STACK BUILDER`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=750&lines=MERN+STACK+DEVELOPER;FULL+STACK+WEB+DEVELOPER;AI+%26+AGENTIC+AI+ENTHUSIAST;BUILDING+REAL+WORLD+PROJECTS;TURNING+IDEAS+INTO+PRODUCTS" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&height=55&lines=Hi+%F0%9F%91%8B+I'm+Ramnath+Prajapati;MCA+Student+%F0%9F%8E%93;MERN+Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Exploring+AR%2FVR+%26+Unity+3D+%F0%9F%8E%AE;Building+Ideas+into+Real+Projects+%F0%9F%9A%80" />
 
 <br/>
 
- <img src="https://media.licdn.com/dms/image/v2/D5616AQGErMlu3Ofi-w/profile-displaybackgroundimage-shrink_350_1400/B56aEzwIYbHkAU-/0/1791869617975?e=1795046400&v=beta&t=GMxj3v7NAr-4Z0H--h2RSA1_.fRDTdG7vYIjRO7LfZWE" width="100%" alt="MERN STACK Developer "/> 
-
-
-<br/><br/>
-
-<a href="https://github.com/ramnath-prajapati">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF88"/>
+<a href="https://github.com/studyzone19">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="https://www.linkedin.com/in/ramnath-prajapati/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF88"/>
-</a>
-
 <a href="https://ram-profile.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:ramnathprajapati2003@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF88"/>
-</a>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🎓_EDUCATION-MCA_Student-7C3AED?style=for-the-badge&labelColor=18181B"/>
+<img src="https://img.shields.io/badge/💼_FOCUS-Full_Stack_Development-2563EB?style=for-the-badge&labelColor=18181B"/>
+<img src="https://img.shields.io/badge/🚀_STATUS-Always_Learning-16A34A?style=for-the-badge&labelColor=18181B"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ramnath-prajapati&label=PROFILE%20VIEWS&color=00ff88&style=for-the-badge"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=studyzone19&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/studyzone19)
 
 </div>
 
 ---
 
+## 👨‍💻 About Me
+
+<img align="right" width="310" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+Hello World! I'm **Ram Prajapati ** 👋
+
+I'm an MCA student and passionate developer who loves building modern web applications, exploring Artificial Intelligence and solving real-world problems through technology.
+
+- 🎓 Pursuing MCA at **Invertis University, Bareilly**
+- 💻 Focused on **MERN Stack Development**
+- ⚛️ Building responsive applications using React.js
+- 🛠️ Developing backend systems using Node.js and Express.js
+- 🤖 Exploring AI, Machine Learning and Python
+- 🌐 Interested in Cybersecurity and Network Technologies
+- 🎮 Exploring AR/VR Development and Unity 3D
+- 🚀 Building innovative projects and participating in hackathons
+- 📚 Continuously learning new technologies
+
+<br clear="right"/>
+
+> "Great software is built by curiosity, consistency and the courage to keep learning."
 
 ---
 
-# 👨‍💻 About Me
+## 🎓 Education
 
-<table>
-<tr>
-
-<td width="60%" valign="top">
-
-I'm **Ram Prajapati**, an MCA student and **MERN Stack Developer** passionate about building modern, scalable and user-focused web applications.
-
-I enjoy working across the complete development lifecycle, from designing interfaces and building REST APIs to database management, authentication and deployment.
-
-### Currently Focused On
-
-- 🚀 MERN Stack
-- 🤖 Artificial Intelligence
-- 🧠 Agentic AI
-- 📊 Machine Learning
-- 🔐 Cyber Security
-- 🌐 Network Technologies
-- ☁️ Cloud & Deployment
-- 🏗️ System Design
-
-```javascript
-const ram = {
-    role: "MERN Stack Developer",
-    education: "MCA",
-    interests: [
-        "Full Stack Development",
-        "Artificial Intelligence",
-        "Agentic AI",
-        "Cyber Security"
-    ],
-    mindset: "Build > Learn > Improve > Repeat"
-};
-```
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://ram-profile.vercel.app/profile-transparent.png" width="220" alt="Ram Prajapati"/>
-
-<br/><br/>
-
-### `DEVELOPER MODE`
-
-```text
-Frontend
-████████████████░░░░
-
-Backend
-███████████████░░░░░
-
-Database
-██████████████░░░░░░
-
-AI / ML
-███████████░░░░░░░░░
-
-```
-
-</td>
-
-</tr>
-</table>
+| Qualification | Institution | Status |
+|:---|:---|:---:|
+| Master of Computer Applications (MCA) | Invertis University, Bareilly | Pursuing |
+| Bachelor of Computer Applications (BCA) | DDU University, Gorakhpur | Completed |
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-## `> FRONTEND`
+### 💻 Programming Languages
 
-<div align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,python,java,cpp,cs,php"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite" />
+### 🌐 Frontend Development
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite"/>
+</p>
 
-<br/>
+### ⚙️ Backend Development
 
-## `> BACKEND`
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet"/>
+</p>
 
-<div align="center">
+### 🗄️ Database & Data Analytics
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,java" />
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
 
-</div>
+### 🤖 AI / Machine Learning
 
-<br/>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
 
-## `> DATABASE`
+### 🎮 AR / VR & Game Development
 
-<div align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=unity,cs"/>
+<img src="https://img.shields.io/badge/AR%2FVR-Exploring-7C3AED?style=for-the-badge"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+### 🔧 Tools & Platforms
 
-</div>
-
-<br/>
-
-## `> AI / DATA`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-<br/><br/>
-
-`NumPy` • `Pandas` • `Machine Learning` • `AI APIs` • `LLM Applications` • `Agentic AI`
-
-</div>
-
-<br/>
-
-## `> TOOLS & DEPLOYMENT`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,render" />
-
-</div>
-
----
-
-# 🚀 What I Build
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### 🌐 Web Applications
-
-Building responsive and modern full-stack applications using:
-
-```text
-React
-Node.js
-Express
-MongoDB
-REST APIs
-JWT
-```
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🤖 AI Applications
-
-Exploring practical AI products using:
-
-```text
-Python
-AI APIs
-Chatbots
-AI Agents
-Automation
-```
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🔐 Developer & Network Tools
-
-Interested in building:
-
-```text
-Cyber Security
-IPv6 Tools
-Network Analysis
-Developer Utilities
-Automation
-```
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🔥 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🌐 NetScope IPv6 Auditor
-
-**IPv6 Website & Dependency Readiness Auditor**
-
-A full-stack tool designed to analyze IPv6 compatibility across websites and their dependent resources.
-
-### Stack
-
-`React` `Node.js` `Playwright` `IPv6` `Network Analysis`
-
-### Features
-
-- IPv6 reachability testing
-- Dependency discovery
-- DNS analysis
-- TCP/TLS/HTTP failure detection
-- Dependency graph
-- Analytics dashboard
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🤖 AI Smart Assistant
-
-**AI-Powered Personal Assistant**
-
-A modern AI assistant designed around conversational interaction and intelligent tools.
-
-### Stack
-
-`React` `Node.js` `Express` `MongoDB` `AI`
-
-### Features
-
-- AI conversation
-- Authentication
-- Chat history
-- Intelligent tools
-- REST API
-- Responsive interface
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🧠 Smart Class Scheduler
-
-**Intelligent College Management System**
-
-A MERN-based platform for timetable management and role-based college workflows.
-
-### Stack
-
-`MongoDB` `Express` `React` `Node.js`
-
-### Features
-
-- Smart timetable
-- Role-based dashboards
-- Teacher availability
-- Room allocation
-- Conflict detection
-- Notifications
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🌋 LANDGUARD AI
-
-**AI-Based Landslide Risk Monitoring & Early Warning System**
-
-An AI-powered platform designed to monitor landslide risk using environmental data and provide early warnings for vulnerable areas.
-
-### Stack
-
-`React` `Node.js` `Python` `AI/ML` `MongoDB` `GIS`
-
-### Features
-
-- AI-based risk prediction
-- Rainfall & soil analysis
-- Slope-based risk assessment
-- Landslide risk score
-- Interactive risk map
-- Early warning alerts
-- Citizen dashboard
-- Field officer monitoring
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=studyzone19 &show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF&icon_color=00FF88"
-height="180"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramnath-prajapati&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF"
-height="180"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=studyzone19 &hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=FFFFFF&dates=777777"
-width="70%"
-/>
-
-</div>
-
----
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=studyzone19&theme=tokyo-night&hide_border=true&area=true"
-    width="100%"
-    alt="Contribution Graph"
-  />
-</p> 
-
-# 🧠 Currently Learning
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🤖 AI & Agentic AI
-
-```text
-AI / ML
-██████████████░░░░░░
-
-LLM Applications
-████████████░░░░░░░░
-
-AI Agents
-███████████░░░░░░░░░
-
-Agentic AI
-██████████░░░░░░░░░░
-```
-
-</td>
-
-<td width="50%">
-
-### 💻 Engineering
-
-```text
-MERN Stack
-██████████████████░░
-
-System Design
-████████████░░░░░░░░
-
-Cyber Security
-███████████░░░░░░░░░
-
-```
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 💻 Developer Terminal
-
-```bash
-┌─────────────────────────────────────────────────────────────┐
-│                     RAM TERMINAL                            │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│ $ npm run developer                                         │
-│                                                             │
-│ > Initializing developer environment...                     │
-│ > Loading MERN stack...                                     │
-│ > Connecting MongoDB...                                     │
-│ > Starting Express server...                                │
-│ > Loading React application...                              │
-│ > Initializing AI services...                               │
-│                                                             │
-│ ✓ Frontend       ONLINE                                     │
-│ ✓ Backend        ONLINE                                     │
-│ ✓ Database       CONNECTED                                  │
-│ ✓ APIs           READY                                      │
-│ ✓ AI Services    READY                                      │
-│                                                             │
-│ STATUS: READY TO BUILD 🚀                                   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-# 🧩 Skills Matrix
-
-<table>
-<tr>
-
-<td>
-
-### Frontend
-
-```text
-HTML
-CSS
-JavaScript
-React.js
-Tailwind CSS
-Bootstrap
-Responsive Design
-```
-
-</td>
-
-<td>
-
-### Backend
-
-```text
-Node.js
-Express.js
-REST APIs
-JWT
-Authentication
-Authorization
-API Integration
-```
-
-</td>
-
-<td>
-
-### Database
-
-```text
-MongoDB
-MySQL
-CRUD
-Aggregation
-Schema Design
-Database Integration
-```
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### Programming
-
-```text
-JavaScript
-Python
-Java
-C++
-SQL
-```
-
-</td>
-
-<td>
-
-### AI / Data
-
-```text
-Python
-NumPy
-Pandas
-Machine Learning
-AI APIs
-AI Agents (Learning)
-```
-
-</td>
-
-<td>
-
-### Tools
-
-```text
-Git
-GitHub
-VS Code
-Postman
-Docker
-Vite
-Vercel
-Render
-```
-
-</td>
-
-</tr>
-</table>
-
----
-
-
- ## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=studyzone19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" width="100%" />
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,postman,linux,figma"/>
 </p>
 
 ---
 
+## 🚀 Featured Projects
 
-# 🐍 Contribution Snake
+### 🌍 1. LANDGUARD AI
 
-<div align="center">
+**AI-Based Early Warning and Landslide Risk Monitoring System**
 
-<img
-src="https://raw.githubusercontent.com/ramnath-prajapati/ramnath-prajapati/output/github-contribution-grid-snake-dark.svg"
-alt="GitHub Contribution Snake"
-/>
+An intelligent platform designed to monitor landslide risks and provide early warnings using environmental data.
 
-</div>
+**Tech Stack:**
+`React.js` `Node.js` `Express.js` `MongoDB` `Python` `Machine Learning` `GIS`
 
----
-
-# 🎯 2026 Goals
-
-```text
-[✓] Build production-ready MERN applications
-[✓] Build AI-powered applications
-[✓] Participate in hackathons
-[✓] Master Advanced React
-[✓] Master Node.js & Backend Architecture
-[ ] Learn System Design  [{ Learning  }]
-[ ] Build AI Agents       
-[ ] Explore Agentic AI    [{ Learning  }]
-[✓] Contribute to Open Source
-[ ] Improve Cyber Security Skills  [{ Learning  }]
-[✓] Build scalable real-world products
-```
+**Key Features:**
+- AI-based landslide risk prediction
+- Rainfall and environmental data monitoring
+- Risk score generation
+- Interactive risk maps
+- Citizen early warning dashboard
+- Field officer management
+- Automated alerts and notifications
 
 ---
 
-# ⚡ Developer Philosophy
+### 🌐 2. NetScope IPv6 Auditor
 
-<div align="center">
+**IPv6 Website & Dependency Readiness Auditor**
 
-```text
-┌─────────────────────────────────────────────────┐
-│                                                 │
-│       THINK  →  BUILD  →  TEST  →  SHIP       │
-│                                                 │
-│       LEARN   →  IMPROVE  →  REPEAT            │
-│                                                 │
-└─────────────────────────────────────────────────┘
-```
+A network analysis platform that evaluates IPv6 compatibility of websites and their dependent resources.
 
-### `Think like a developer.`
+**Tech Stack:**
+`React.js` `Node.js` `Playwright` `IPv6` `Network Analysis`
 
-### `Build like an engineer.`
-
-### `Learn like a beginner.`
-
-### `Improve every day.`
-
-</div>
+**Key Features:**
+- IPv6 reachability testing
+- Website dependency discovery
+- DNS analysis
+- TCP, TLS and HTTP failure detection
+- Dependency visualization
+- IPv4-only resource detection
 
 ---
 
-# 🤝 Let's Connect
+### 🎓 3. EduPredict AI
+
+**Student Academic Performance Prediction System**
+
+An AI-powered application that predicts student academic performance using machine learning.
+
+**Tech Stack:**
+`React.js` `FastAPI` `Python` `MongoDB` `Machine Learning`
+
+**Key Features:**
+- Student performance prediction
+- AI-based academic analysis
+- Prediction history
+- Interactive dashboard
+- Performance visualization
+- REST API integration
+
+---
+
+### 📅 4. SmartSchedule
+
+**Intelligent College Class Management System**
+
+A smart timetable management platform designed to automate college scheduling.
+
+**Tech Stack:**
+`MongoDB` `Express.js` `React.js` `Node.js` `JWT`
+
+**Key Features:**
+- Automated timetable generation
+- Teacher availability management
+- Classroom allocation
+- Schedule conflict detection
+- Admin, Faculty and Student dashboards
+- Notification system
+
+---
+
+### 🤖 5. AI CHATBOT 
+
+**AI-Powered Personal Assistant**
+
+An AI assistant concept designed to provide an interactive conversational experience.
+
+**Tech Stack:**
+`React.js` `Node.js` `Python` `AI APIs`
+
+**Planned Features:**
+- AI chatbot
+- Voice interaction
+- Speech-to-text
+- Text-to-speech
+- Personalized assistant experience
+- Conversation history
+
+---
+
+## 📚 Currently Learning
+
+| Technology | Learning Focus |
+|:---|:---|
+| React.js | Advanced Hooks, Redux, Optimization |
+| Node.js | Advanced Backend & REST APIs |
+| MongoDB | Aggregation & Database Design |
+| Python | Data Science & Machine Learning |
+| AI / ML | Model Training & Prediction |
+| DSA | Problem Solving & Algorithms |
+| Unity 3D | AR/VR Development |
+| Cybersecurity | Linux & Network Security |
+| System Design | Scalable Application Architecture |
+
+---
+
+## 🎯 My Learning Roadmap
+
+- [x] Learn HTML, CSS and JavaScript
+- [x] Start React.js Development
+- [x] Learn Node.js and Express.js
+- [x] Work with MongoDB and REST APIs
+- [x] Build Full Stack Projects
+- [ ] Master Advanced MERN Stack
+- [ ] Improve DSA and Problem Solving
+- [ ] Build Advanced AI/ML Projects
+- [ ] Explore Unity 3D and AR/VR
+- [ ] Learn Advanced Cybersecurity
+- [ ] Contribute to Open Source Projects
+- [ ] Secure a Full Stack Developer Internship
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-If you're interested in **MERN, AI, Open Source, Hackathons or building products**, let's connect.
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=studyzone19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=studyzone19&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<a href="https://github.com/ramnath-prajapati">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF88"/>
-</a>
+<img width="90%" src="https://streak-stats.demolab.com?user=studyzone19&theme=tokyonight&hide_border=true"/>
 
-<a href="https://www.linkedin.com/in/ramnath-prajapati/">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF88"/>
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=studyzone19&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=studyzone19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+
+</div>
+
+---
+
+## 💡 Beyond Coding
+
+- 🏏 Playing Cricket
+- 🎮 Exploring Game Development
+- 🤖 Experimenting with AI Technologies
+- 🌐 Exploring New Development Tools
+- 🚀 Building Creative Side Projects
+- 📖 Learning and Improving Every Day
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always interested in connecting with developers, learning new technologies, collaborating on projects and exploring internship opportunities.
+
+<a href="https://github.com/studyzone19">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://ram-profile.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-```text
-> CODE  - > BUILD   - > LEARN  -  > IMPROVE   - > REPEAT_
-```
+**💼 Open to Full Stack Developer Internships & Collaboration Opportunities**
+
+**⭐ Keep Learning | Keep Building | Keep Growing ⭐**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:581C87,100:09090B&height=120&section=footer"/>
 
 </div>
