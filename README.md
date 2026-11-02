@@ -5,7 +5,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,40:581C87,100:2563EB&height=250&section=header&text=RAM%20PRAJAPATI&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=MERN%20STACK%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST%20%7C%20AR%2FVR%20EXPLORER&descSize=15&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&height=55&lines=Hi+%F0%9F%91%8B+I'm+Ramnath+Prajapati;MCA+Student+%F0%9F%8E%93;MERN+Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Exploring+AR%2FVR+%26+Unity+3D+%F0%9F%8E%AE;Building+Ideas+into+Real+Projects+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&height=55&lines=Hi+%F0%9F%91%8B+I'm+Ram+Prajapati;MCA+Student+%F0%9F%8E%93;MERN+Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Exploring+AR%2FVR+%26+Unity+3D+%F0%9F%8E%AE;Building+Ideas+into+Real+Projects+%F0%9F%9A%80" />
 
 <br/>
 
