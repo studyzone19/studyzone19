@@ -555,17 +555,15 @@ Render
 
 ---
 
-# 🏆 GitHub Trophies
 
-<div align="center">
+ ## 🏆 GitHub Trophies
 
-<img
-src="https://github-profile-trophy.vercel.app/?username=ramnath-prajapati&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
-/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=studyzone19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" width="100%" />
+</p>
 
 ---
+
 
 # 🐍 Contribution Snake
 
