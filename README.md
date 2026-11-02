@@ -60,12 +60,27 @@ MCA student and developer focused on building scalable web applications and expl
 
 ---
 
-## 🎓 Education
 
-| Qualification | Institution | Status |
-|:---|:---|:---:|
-| Master of Computer Applications (MCA) | Invertis University, Bareilly | Pursuing |
-| Bachelor of Computer Applications (BCA) | DDU University, Gorakhpur | Completed |
+## 🎓 Education & Qualifications
+
+<table>
+<tr>
+<th>Degree</th>
+<th>University / Institution</th>
+<th>Status</th>
+</tr>
+<tr>
+<td><b>Master of Computer Applications (MCA)</b></td>
+<td>Invertis University, Bareilly</td>
+<td>In Progress</td>
+</tr>
+<tr>
+<td><b>Bachelor of Computer Applications (BCA)</b></td>
+<td>DDU University, Gorakhpur</td>
+<td>Completed</td>
+</tr>
+</table>
+
 
 ---
 
