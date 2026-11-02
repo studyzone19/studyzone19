@@ -35,18 +35,22 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="310" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="380"
+src="https://raw.githubusercontent.com/studyzone19/studyzone19/main/assets/mern-ar-vr-banner.png"
+alt="MERN Stack and AR/VR Developer"/>
 
 Hello! I'm **Ram Prajapati** 👋
 
-An MCA student and passionate software developer focused on building scalable web applications and exploring intelligent technologies.
+MCA student and developer focused on building scalable web applications and exploring emerging technologies.
 
-- 🎓 MCA @ **Invertis University, Bareilly**
-- 💻 **MERN Stack & Full Stack Development**
-- 🤖 **AI/ML & Agentic AI Enthusiast**
-- 🔐 Exploring **Cybersecurity & Network Technologies**
-- 🎮 Exploring **AR/VR & Unity 3D**
-- 🚀 Building innovative solutions through code and continuous learning.
+- 🎓 MCA @ Invertis University, Bareilly
+- 💻 MERN Stack Development
+- 🤖 AI/ML & Agentic AI
+- 🔐 Cybersecurity & Network Technologies
+- 🎮 Exploring AR/VR & Unity 3D
+- 🚀 Building innovative digital solutions.
+
+<br clear="right"/>
 
 <br clear="right"/>
 
