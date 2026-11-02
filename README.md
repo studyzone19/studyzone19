@@ -35,9 +35,11 @@
 
 ## 👨‍💻 About Me
 
+## 👨‍💻 About Me
+
 <img align="right" width="380"
-src="https://raw.githubusercontent.com/studyzone19/studyzone19/main/assets/mern-ar-vr-banner.png"
-alt="MERN Stack and AR/VR Developer"/>
+src="./MERN%20Stack%20AR_VR%20Developer%20Poster.png"
+alt="MERN Stack & AR/VR Developer"/>
 
 Hello! I'm **Ram Prajapati** 👋
 
@@ -49,6 +51,8 @@ MCA student and developer focused on building scalable web applications and expl
 - 🔐 Cybersecurity & Network Technologies
 - 🎮 Exploring AR/VR & Unity 3D
 - 🚀 Building innovative digital solutions.
+
+<br clear="right"/>
 
 <br clear="right"/>
 
