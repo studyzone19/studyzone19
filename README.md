@@ -125,7 +125,7 @@ MCA student and developer focused on building scalable web applications and expl
 ### 🎮 AR / VR & Game Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=unity,cs"/>
+<!-- <img src="https://skillicons.dev/icons?i=unity,cs"/> -->
 <img src="https://img.shields.io/badge/AR%2FVR-Exploring-7C3AED?style=for-the-badge"/>
 </p>
 
